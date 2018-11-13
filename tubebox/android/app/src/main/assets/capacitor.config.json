@@ -1,0 +1,6 @@
+{
+  "appId": "com.daemon.tubebox",
+  "appName": "TubeBox",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}

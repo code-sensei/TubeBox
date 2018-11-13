@@ -1,0 +1,8 @@
+{
+  "name": "TubeBox",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "90a8230f"
+}
